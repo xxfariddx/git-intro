@@ -1,1 +1,5 @@
-Message from main branch
+<<<<<<< HEAD
+Salam bu yeni mesajdir
+=======
+Yeni mesaj
+>>>>>>> feature-greeting
