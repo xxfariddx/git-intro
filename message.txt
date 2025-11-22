@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Salam bu yeni mesajdir
-=======
 Yeni mesaj
->>>>>>> feature-greeting
